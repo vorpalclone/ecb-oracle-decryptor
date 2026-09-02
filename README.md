@@ -8,5 +8,19 @@ A Python automation script to execute a Byte-at-a-time AES-ECB decryption attack
 
 ## Dependencies
 Ensure you have the required Python packages installed:
-```bash
+
 pip install pycryptodome beautifulsoup4 requests
+
+
+Usage
+
+  1. Update the URL variable in the script with your target Machine IP.
+
+  2. Run the script:
+
+      python3 ecb-script.py
+
+
+DISCLAIMER
+
+This script was created for educational purposes and CTF challenges (e.g., TryHackMe) only.
