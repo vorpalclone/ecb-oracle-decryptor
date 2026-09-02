@@ -12,7 +12,7 @@ Ensure you have the required Python packages installed:
 pip install pycryptodome beautifulsoup4 requests
 
 
-Usage
+## Usage
 
   1. Update the URL variable in the script with your target Machine IP.
 
@@ -21,6 +21,6 @@ Usage
       python3 ecb-script.py
 
 
-DISCLAIMER
+## DISCLAIMER
 
 This script was created for educational purposes and CTF challenges (e.g., TryHackMe) only.
